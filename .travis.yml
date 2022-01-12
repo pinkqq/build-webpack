@@ -15,5 +15,5 @@ install:
   - npm install -D
   - cd ../../../
 
-script:
+scripts:
   - npm run coverage
