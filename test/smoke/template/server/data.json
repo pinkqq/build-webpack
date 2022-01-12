@@ -1,0 +1,51 @@
+{
+  "date": "20220106",
+  "stories": [
+    {
+      "image_hue": "0x999194",
+      "title": "2022 这个数字在数学意义上有什么特别的，为什么？",
+      "url": "https://daily.zhihu.com/story/9744076",
+      "hint": "知乎用户 · 1 分钟阅读",
+      "ga_prefix": "010607",
+      "images": [
+        "https://pic1.zhimg.com/v2-b44c0522936a002b9546777780cbb1d1.jpg?source=8673f162"
+      ],
+      "type": 0,
+      "id": 9744076
+    },
+    {
+      "image_hue": "0x3081b3",
+      "title": "关于「职业打假」都有哪些知识值得了解？",
+      "url": "https://daily.zhihu.com/story/9744081",
+      "hint": "忘忧草 · 3 分钟阅读",
+      "ga_prefix": "010607",
+      "images": [
+        "https://pic3.zhimg.com/v2-508d4268fcf7fcb4e3ce340c0862aa91.jpg?source=8673f162"
+      ],
+      "type": 0,
+      "id": 9744081
+    }
+  ],
+  "top_stories": [
+    {
+      "image_hue": "0x825b63",
+      "hint": "作者 / 知乎用户",
+      "url": "https://daily.zhihu.com/story/9743729",
+      "image": "https://pic3.zhimg.com/v2-54970feaaf73cae7aeef5022e5a57472.jpg?source=8673f162",
+      "title": "人民币是怎么印出来的？",
+      "ga_prefix": "122507",
+      "type": 0,
+      "id": 9743729
+    },
+    {
+      "image_hue": "0xb39f7d",
+      "hint": "作者 / 丁香医生",
+      "url": "https://daily.zhihu.com/story/9743610",
+      "image": "https://pic1.zhimg.com/v2-689ea267641a22c491e90d1d77cdb6bc.jpg?source=8673f162",
+      "title": "吃剩菜真的有害吗？",
+      "ga_prefix": "122307",
+      "type": 0,
+      "id": 9743610
+    }
+  ]
+}
